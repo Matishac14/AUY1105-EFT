@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/Matishac14/AUY1105-EFT/compare/v1.0.0...v1.0.1) (2026-07-06)
+
+
+### Bug Fixes
+
+* Actualización de referencias en main.tf para repo modulos EFT a rama main ([687fa90](https://github.com/Matishac14/AUY1105-EFT/commit/687fa90d04c667bb99d5a693636824b9b188b195))
+
 ## 1.0.0 (2026-06-03)
 
 
