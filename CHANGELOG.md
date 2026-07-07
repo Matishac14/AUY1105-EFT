@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.2](https://github.com/Matishac14/AUY1105-EFT/compare/v1.0.1...v1.0.2) (2026-07-07)
+
+
+### Bug Fixes
+
+* Corrección de referencia a modulos por release en main.tf ([4ca3fdb](https://github.com/Matishac14/AUY1105-EFT/commit/4ca3fdb9bdf6cb6a1b1ce28ea2a5f60e066a26ca))
+* correcion formato fmt código main.tf ([5385a15](https://github.com/Matishac14/AUY1105-EFT/commit/5385a15ceb7a9cd3f12b75cf8f65320b9ea4a49c))
+
 ## [1.0.1](https://github.com/Matishac14/AUY1105-EFT/compare/v1.0.0...v1.0.1) (2026-07-06)
 
 
